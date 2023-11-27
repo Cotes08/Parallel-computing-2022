@@ -1,0 +1,4 @@
+RESULTADOS: 
+Sentencia de ejecucion: 'main.exe' 'lena512x512.raw' '512' '512' 
+Tiempo que tarda en leer la matriz: 18.000 ms
+Tiempo de ejecucion: 262.000 ms

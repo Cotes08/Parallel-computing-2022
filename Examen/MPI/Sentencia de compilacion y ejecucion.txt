@@ -1,0 +1,3 @@
+mpicc -o main.exe main.c
+
+qsub lanzar_qsub_mpi.sh
